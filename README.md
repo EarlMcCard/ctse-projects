@@ -28,4 +28,4 @@ This serves as a foundational project to showcase basic **Python scripting, func
     The application will then prompt you with options (Add, View, Complete, Exit).
 
 ---
-**[← Back to Backend Module Readme](https://github.com/EarlMcCard/ctse-projects/tree/main)**
+**[← Back to Main Portfolio Readme](https://github.com/EarlMcCard/ctse-projects/tree/main)**
