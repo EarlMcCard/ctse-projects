@@ -21,4 +21,4 @@ This project was critical for solidifying **complex state management** and **dyn
 * **Local Storage:** Used for basic data persistence between sessions.
 
 ---
-**[← Back to Frontend Module Readme](https://github.com/EarlMcCard/ctse-projects/tree/main)**
+**[← Back to Main Portfolio Readme](https://github.com/EarlMcCard/ctse-projects/tree/main)**
