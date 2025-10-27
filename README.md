@@ -34,6 +34,7 @@ The projects are organized into separate branches based on the core module they 
 | Advanced React Frameworks |
 | UI/UX Design Principles |
 | Component-Based Architecture |
+
 | Backend Skills |
 | :--- |
 | Python Syntax & OOP |
