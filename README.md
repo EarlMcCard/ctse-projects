@@ -24,4 +24,4 @@ The primary goal was to demonstrate mastery of modern **HTML, CSS, and Responsiv
 This is a static site. You can view the live deployment [HERE](YOUR_LIVE_DEMO_LINK) or open the `index.html` file in your browser after cloning the branch.
 
 ---
-**[← Back to Frontend Module Readme](https://github.com/EarlMcCard/ctse-projects/tree/main)**
+**[← Back to Main Portfolio Readme](https://github.com/EarlMcCard/ctse-projects/tree/main)**
