@@ -28,19 +28,12 @@ The projects are organized into separate branches based on the core module they 
 
 ## Skills Gained
 
-| Frontend Skills |
-| :--- |
-| HTML, CSS, JavaScript |
-| Advanced React Frameworks |
-| UI/UX Design Principles |
-| Component-Based Architecture |
-
-| Backend Skills |
-| :--- |
-| Python Syntax & OOP |
-| Database Management (SQL/NoSQL) |
-| API Development & REST |
-| Scalable System Design |
+| Frontend Skills | Backend Skills |
+| :--- |:--- |
+| HTML, CSS, JavaScript | Python Syntax & OOP |
+| Advanced React Frameworks | Database Management (SQL/NoSQL) |
+| UI/UX Design Principles | API Development & REST |
+| Component-Based Architecture | Scalable System Design |
 
 ---
 **Connect with me:** [www.linkedin.com/in/earl-mccard-phl] | **Certification:** [Coding Temple Link (if available)]
