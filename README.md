@@ -1,39 +1,33 @@
-# 🎓 Coding Temple Full-Stack Software Engineering Portfolio
+# 🐍 Backend Fundamentals Module Projects
 
-This repository showcases the projects and practical applications developed while earning my Full-Stack Software Engineering certification from **Coding Temple**.
+This branch contains the backend-focused projects completed during the **Mastering the Fundamentals** phase of the Coding Temple bootcamp.
 
-## Overview
+## Highlights ⚡️
 
-My journey through the bootcamp focused on mastering the fundamentals of both **backend** and **frontend** development, ensuring a versatile skillset capable of building functional, user-centered applications.
+My work in this module was centered on building scalable logic and effective database management systems.
 
-**💡 Foundation for Success:**
+* **Learn Python syntax and object-oriented programming (OOP).**
+* **Manage databases and create scalable systems.**
+* **Develop RESTful APIs for applications.**
 
-* **Versatility:** I have gained proficiency in both backend (logic, database management) and frontend (UI/UX, user interface design) development.
-* **Project-Based Learning:** All projects in this portfolio are designed to translate theoretical knowledge into practical, scalable solutions.
+## Projects in this Branch
 
-## Featured Modules & Projects
+### 1. To-Do List Application
 
-The projects are organized into separate branches based on the core module they represent.
+* **Description:** A foundational project focusing on the core principles of application logic and state management.
+* **Skills Demonstrated:** Basic input/output handling, function design, and core Python scripting abilities.
 
-| Module Branch | Focus | Key Projects |
-| :--- | :--- | :--- |
-| **[frontend](https://github.com/EarlMcCard/ctse-projects/tree/frontend-devel)** | Frontend Development (HTML, CSS, JavaScript, React) | Personal Portfolio Website, Budget Tracker Application, E-commerce Application. |
-| **[project1](https://github.com/EarlMcCard/ctse-projects/tree/frontend-project1)** | Personal Portfolio Website |
-| **[project2](https://github.com/EarlMcCard/ctse-projects/tree/frontend-project2)** | Budget Tracker Application |
-| **[project3](https://github.com/EarlMcCard/ctse-projects/tree/frontend-project3)** | E-commerce Application |
-| **[backend](https://github.com/EarlMcCard/ctse-projects/tree/backend-devel)** | Backend Development (Python, Databases, APIs) | To-Do List Application, E-commerce API, Contact Management System. |
-| **[project1](https://github.com/EarlMcCard/ctse-projects/tree/backend-project1)** | To-Do List Application |
-| **[project2](https://github.com/EarlMcCard/ctse-projects/tree/backend-project2)** | E-commerce API |
-| **[project3](https://github.com/EarlMcCard/ctse-projects/tree/backend-project3)** | Contact Management System |
+### 2. E-commerce API (Core Project)
 
-## Skills Gained
+* **Description:** A robust API built to manage product data, user authentication, and inventory for an e-commerce platform.
+* **Key Technologies:** Python, chosen Database (e.g., PostgreSQL/SQLite), API Framework (e.g., Flask/Django).
+* **Skills Demonstrated:** Data modeling, CRUD operations, authentication (e.g., JWT), and testing API endpoints.
 
-| Backend Skills | Frontend Skills |
-| :--- | :--- |
-| Python Syntax & OOP | HTML, CSS, JavaScript |
-| Database Management (SQL/NoSQL) | Advanced React Frameworks |
-| API Development & REST | UI/UX Design Principles |
-| Scalable System Design | Component-Based Architecture |
+### 3. Contact Management System
+
+* **Description:** A system designed to efficiently store, retrieve, update, and delete contact information.
+* **Skills Demonstrated:** Effective use of data structures and object-oriented principles to manage data persistence.
+
 
 ---
-**Connect with me:** [www.linkedin.com/in/earl-mccard-phl] | **Certification:** [Coding Temple Link (if available)]
+**[← Back to Main Portfolio Readme](https://github.com/EarlMcCard/ctse-projects/tree/main)**
