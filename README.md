@@ -41,4 +41,4 @@ This application focuses on delivering a smooth, responsive shopping experience.
     ```
 
 ---
-**[← Back to Frontend Module Readme](https://github.com/emcca029-dev/ctse-projects/tree/main)**
+**[← Back to Frontend Module Readme](https://github.com/EarlMcCard/ctse-projects/tree/main)**
