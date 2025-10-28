@@ -1,5 +1,4 @@
-# 🎨 Bootstrap Proficiency Challenge: Responsive Web Page 
-### Bootstrap Basics, Utilities, Forms, and Components
+# 🎨 Bootstrap Basics: Utilities, Forms, and Components
 
 This project is a hands-on assignment designed to demonstrate mastery of core Bootstrap 5 concepts, utilities, and components by creating a fully functional, responsive single-page layout.
 
