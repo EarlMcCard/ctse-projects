@@ -1,5 +1,3 @@
-# 🚩 Project:
-
 # 🎨 Bootstrap Proficiency Challenge: Responsive Web Page 
 ### Bootstrap Basics, Utilities, Forms, and Components
 
@@ -16,9 +14,9 @@ This project successfully integrates multiple facets of the Bootstrap framework:
 
 - Form Components: Utilized standard Bootstrap form components for fields like Email and Password.
 
-- Validation: Applied validation classes (e.g., <kbd>is-invalid</kbd>) and the <kbd>required<kbd> attribute to the Email and Password fields, simulating basic client-side form validation.
+- Validation: Applied validation classes (e.g., <kbd>is-invalid</kbd>) and the <kbd>required</kbd> attribute to the Email and Password fields, simulating basic client-side form validation.
 
-- Styling: The submission button is styled clearly using the built-in <kbd>btn-success<kbd> utility class.
+- Styling: The submission button is styled clearly using the built-in <kbd>btn-success</kbd> utility class.
 
 2. Table for Displaying Data (Part 2)
 - Data Display: Created a professional-looking <kbd>table</kbd> using Bootstrap's table component.
