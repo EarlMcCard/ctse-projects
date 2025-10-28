@@ -29,9 +29,9 @@ The projects are organized into separate branches based on the core module they 
 ## Workshop & Challenge Projects
 This section highlights specific technical challenges and supplemental assignments designed to demonstrate proficiency in core tools and frameworks.
 
-| Project Name | Skills Demonstrated | Repository Link |
-| :----------- | :------------------ | :-------------- |
-| bootstrap-basics | Responsive Design, Bootstrap 5 Components (Forms, Navbar, Tables), Utiliy Classes (Grid Display)| (https://github.com/EarlMcCard/ctse-projects/tree/bootstrap-basics) |
+| Project Name | Focus |
+| :----------- | :------------------ |
+| **[bootstrap-basics](https://github.com/EarlMcCard/ctse-projects/tree/bootstrap-basics)** | Responsive Design, Bootstrap 5 Components (Forms, Navbar, Tables), Utiliy Classes (Grid Display)|
 
 ## Skills Gained
 
