@@ -26,6 +26,13 @@ The projects are organized into separate branches based on the core module they 
 | **[project2](https://github.com/EarlMcCard/ctse-projects/tree/backend-project2)** | E-commerce API |
 | **[project3](https://github.com/EarlMcCard/ctse-projects/tree/backend-project3)** | Contact Management System |
 
+## Workshop & Challenge Projects
+This section highlights specific technical challenges and supplemental assignments designed to demonstrate proficiency in core tools and frameworks.
+
+| Project Name | Skills Demonstrated | Repository Link |
+| :----------- | :------------------ | :-------------- |
+| bootstrap-basics | Responsive Design, Bootstrap 5 Components (Forms, Navbar, Tables), Utiliy Classes (Grid Display)| (https://github.com/EarlMcCard/ctse-projects/tree/bootstrap-basics) |
+
 ## Skills Gained
 
 | Frontend Skills | Backend Skills |
